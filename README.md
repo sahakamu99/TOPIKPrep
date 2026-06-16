@@ -1,2 +1,2 @@
 # TOPIKPrep
-Aplikasi TOPIKPrep untuk elajar korea
+Aplikasi TOPIKPrep untuk belajar korea
